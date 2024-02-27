@@ -1,0 +1,67 @@
+Attributions for CAB-IS-ClanInvasion
+
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
+
+
+Lt. Shade
+Models:
+Argus
+Avatar Redux
+Bombard
+Dragon Fire
+Hollander
+Huron Warrior (huronw)
+Huron Warrior Redux (huronwarrior)
+Juggernaut
+
+Ion Raptor
+Models:
+Blitzkrieg
+Grand Titan
+Ion Sunder
+Owens
+Prometheus
+Raptor
+Strider
+Wraith
+Penetrator
+Rakshasa
+
+Transient74
+Models:
+Naginata
+
+Transient74 and IonRaptor
+Models:
+Komodo
+
+Piranha Games, Inc.
+Models:
+Bushwacker
+
+JuodasVarnas 
+Models:
+Enfield
+Thunder
+Helios
+
+SmallRobotsInAContainer/Napes
+Models:
+Anvil
+Salamander
+Berserker
+Fireball
+
+FrostRaptor
+Models:
+Gunslinger
+
+
+Mason
+Models:
+Viking
+
+
+Momma Leli and Transient74
+Models:
+Albatross
