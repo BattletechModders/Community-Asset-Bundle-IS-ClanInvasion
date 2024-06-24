@@ -1216,7 +1216,12 @@
 
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrprfweap_wraith_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrprfweap_wraith_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrprfweap_wraith_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" }
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrprfweap_wraith_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/duangung/chrPrfComp_duangung_simgame.prefab", "AssetBundleName": "chrprfmech_duangungbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_duangungbase-001.prefab", "AssetBundleName": "chrprfmech_duangungbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/duangung/chrPrfComp_duangung_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_duangungbase-001" }
 	
     ]
 }

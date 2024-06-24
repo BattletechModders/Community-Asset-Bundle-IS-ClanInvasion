@@ -26,6 +26,7 @@ Strider
 Wraith
 Penetrator
 Rakshasa
+Duan Gung
 
 Transient74
 Models:

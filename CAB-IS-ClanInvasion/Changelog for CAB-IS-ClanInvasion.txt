@@ -2,6 +2,10 @@ Changelog for CAB-IS-ClanInvasion
 
 -----------------------------------------------------
 
+1.1
+
+Added Duan Gung
+
 1.0
 
 Initial Commit
