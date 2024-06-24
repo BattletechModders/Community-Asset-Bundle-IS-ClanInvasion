@@ -1221,6 +1221,8 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/duangung/chrPrfComp_duangung_simgame.prefab", "AssetBundleName": "chrprfmech_duangungbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_duangungbase-001.prefab", "AssetBundleName": "chrprfmech_duangungbase-001" },	
 		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/duangung/chrprfweap_duangung_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_duangungbase-001" },
+		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/duangung/chrPrfComp_duangung_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_duangungbase-001" }
 	
     ]
