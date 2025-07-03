@@ -2,6 +2,10 @@ Changelog for CAB-IS-ClanInvasion
 
 -----------------------------------------------------
 
+1.2
+
+Added Caesar
+
 1.1
 
 Added Duan Gung

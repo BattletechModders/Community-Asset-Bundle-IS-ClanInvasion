@@ -1,0 +1,213 @@
+{
+  "ID": "hardpointdatadef_caesar",
+  "HardpointData": [
+    {
+      "Location": "head",
+      "weapons": [
+        [
+          "chrPrfWeap_caesar_head_ac5_bh1",
+          "chrPrfWeap_caesar_head_flamer_eh1",
+          "chrPrfWeap_caesar_head_laser_eh1",
+          "chrPrfWeap_caesar_head_mg_bh1",
+          "chrPrfWeap_caesar_head_ppc_eh1"
+        ],
+        [
+          "chrPrfWeap_caesar_head_ac5_bh2",
+          "chrPrfWeap_caesar_head_flamer_eh2",
+          "chrPrfWeap_caesar_head_laser_eh2",
+          "chrPrfWeap_caesar_head_mg_bh2",
+          "chrPrfWeap_caesar_head_ppc_eh2"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "centertorso",
+      "weapons": [
+        [
+          "chrPrfWeap_caesar_centertorso_flamer_eh1",
+          "chrPrfWeap_caesar_centertorso_laser_eh1",
+          "chrPrfWeap_caesar_centertorso_ac5_bh1",
+          "chrPrfWeap_caesar_centertorso_mg_bh1",
+          "chrPrfWeap_caesar_centertorso_ppc_eh1"
+        ],
+        [
+          "chrPrfWeap_caesar_centertorso_flamer_eh2",
+          "chrPrfWeap_caesar_centertorso_laser_eh2",
+          "chrPrfWeap_caesar_centertorso_ac5_bh2",
+          "chrPrfWeap_caesar_centertorso_mg_bh2",
+          "chrPrfWeap_caesar_centertorso_ppc_eh2"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "leftarm",
+      "weapons": [
+        [
+          "chrPrfWeap_caesar_leftarm_flamer_eh1",
+          "chrPrfWeap_caesar_leftarm_laser_eh1",
+          "chrPrfWeap_caesar_leftarm_mg_bh1",
+          "chrPrfWeap_caesar_leftarm_ppc_eh1"
+        ],
+        [
+          "chrPrfWeap_caesar_leftarm_flamer_eh2",
+          "chrPrfWeap_caesar_leftarm_laser_eh2",
+          "chrPrfWeap_caesar_leftarm_mg_bh2",
+          "chrPrfWeap_caesar_leftarm_ppc_eh2"
+        ],
+        [
+          "chrPrfWeap_caesar_leftarm_flamer_eh3",
+          "chrPrfWeap_caesar_leftarm_laser_eh3",
+          "chrPrfWeap_caesar_leftarm_mg_bh3",
+          "chrPrfWeap_caesar_leftarm_ppc_eh3"
+        ],
+        [
+          "chrPrfWeap_caesar_leftarm_flamer_eh4",
+          "chrPrfWeap_caesar_leftarm_laser_eh4",
+          "chrPrfWeap_caesar_leftarm_mg_bh4",
+          "chrPrfWeap_caesar_leftarm_ppc_eh4"
+        ],
+        [
+          "chrPrfWeap_caesar_leftarm_flamer_eh5",
+          "chrPrfWeap_caesar_leftarm_laser_eh5",
+          "chrPrfWeap_caesar_leftarm_mg_bh5",
+          "chrPrfWeap_caesar_leftarm_ppc_eh5"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "lefttorso",
+      "weapons": [
+        [
+          "chrPrfWeap_caesar_lefttorso_flamer_eh1",
+          "chrPrfWeap_caesar_lefttorso_laser_eh1",
+          "chrPrfWeap_caesar_lefttorso_ppc_eh1",
+          "chrPrfWeap_caesar_lefttorso_ac10_bh1",
+          "chrPrfWeap_caesar_lefttorso_ac20_bh1",
+          "chrPrfWeap_caesar_lefttorso_ac5_bh1",
+          "chrPrfWeap_caesar_lefttorso_gauss_bh1",
+          "chrPrfWeap_caesar_lefttorso_mg_bh1",
+        ],
+        [
+          "chrPrfWeap_caesar_lefttorso_ac5_bh2",
+          "chrPrfWeap_caesar_lefttorso_flamer_eh2",
+          "chrPrfWeap_caesar_lefttorso_laser_eh2",
+          "chrPrfWeap_caesar_lefttorso_mg_bh2",
+          "chrPrfWeap_caesar_lefttorso_ppc_eh2",
+        ],
+        [
+          "chrPrfWeap_caesar_lefttorso_ac5_bh3",
+          "chrPrfWeap_caesar_lefttorso_flamer_eh3",
+          "chrPrfWeap_caesar_lefttorso_laser_eh3",
+          "chrPrfWeap_caesar_lefttorso_mg_bh3",
+          "chrPrfWeap_caesar_lefttorso_ppc_eh3"
+        ],
+        [
+          "chrPrfWeap_caesar_lefttorso_ac5_bh4",
+          "chrPrfWeap_caesar_lefttorso_flamer_eh4",
+          "chrPrfWeap_caesar_lefttorso_laser_eh4",
+          "chrPrfWeap_caesar_lefttorso_mg_bh4",
+          "chrPrfWeap_caesar_lefttorso_ppc_eh4"
+        ],
+		[
+          "chrPrfWeap_caesar_lefttorso_lrm20_mh1",
+          "chrPrfWeap_caesar_lefttorso_srm6_mh1"		
+		],
+		[
+          "chrPrfWeap_caesar_lefttorso_lrm20_mh2",
+          "chrPrfWeap_caesar_lefttorso_srm6_mh2"		
+		]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "rightarm",
+      "weapons": [
+         [
+          "chrPrfWeap_caesar_rightarm_flamer_eh1",
+          "chrPrfWeap_caesar_rightarm_laser_eh1",
+          "chrPrfWeap_caesar_rightarm_mg_bh1",
+          "chrPrfWeap_caesar_rightarm_ppc_eh1"
+        ],
+        [
+          "chrPrfWeap_caesar_rightarm_flamer_eh2",
+          "chrPrfWeap_caesar_rightarm_laser_eh2",
+          "chrPrfWeap_caesar_rightarm_mg_bh2",
+          "chrPrfWeap_caesar_rightarm_ppc_eh2"
+        ],
+        [
+          "chrPrfWeap_caesar_rightarm_flamer_eh3",
+          "chrPrfWeap_caesar_rightarm_laser_eh3",
+          "chrPrfWeap_caesar_rightarm_mg_bh3",
+          "chrPrfWeap_caesar_rightarm_ppc_eh3"
+        ],
+        [
+          "chrPrfWeap_caesar_rightarm_flamer_eh4",
+          "chrPrfWeap_caesar_rightarm_laser_eh4",
+          "chrPrfWeap_caesar_rightarm_mg_bh4",
+          "chrPrfWeap_caesar_rightarm_ppc_eh4"
+        ],
+        [
+          "chrPrfWeap_caesar_rightarm_flamer_eh5",
+          "chrPrfWeap_caesar_rightarm_laser_eh5",
+          "chrPrfWeap_caesar_rightarm_mg_bh5",
+          "chrPrfWeap_caesar_rightarm_ppc_eh5"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "righttorso",
+      "weapons": [
+		[
+          "chrPrfWeap_caesar_righttorso_flamer_eh1",
+          "chrPrfWeap_caesar_righttorso_laser_eh1",
+          "chrPrfWeap_caesar_righttorso_ppc_eh1",
+          "chrPrfWeap_caesar_righttorso_ac10_bh1",
+          "chrPrfWeap_caesar_righttorso_ac20_bh1",
+          "chrPrfWeap_caesar_righttorso_ac5_bh1",
+          "chrPrfWeap_caesar_righttorso_gauss_bh1",
+          "chrPrfWeap_caesar_righttorso_mg_bh1",
+        ],
+        [
+          "chrPrfWeap_caesar_righttorso_ac5_bh2",
+          "chrPrfWeap_caesar_righttorso_flamer_eh2",
+          "chrPrfWeap_caesar_righttorso_laser_eh2",
+          "chrPrfWeap_caesar_righttorso_mg_bh2",
+          "chrPrfWeap_caesar_righttorso_ppc_eh2",
+        ],
+        [
+          "chrPrfWeap_caesar_righttorso_ac5_bh3",
+          "chrPrfWeap_caesar_righttorso_flamer_eh3",
+          "chrPrfWeap_caesar_righttorso_laser_eh3",
+          "chrPrfWeap_caesar_righttorso_mg_bh3",
+          "chrPrfWeap_caesar_righttorso_ppc_eh3"
+        ],
+        [
+          "chrPrfWeap_caesar_righttorso_ac5_bh4",
+          "chrPrfWeap_caesar_righttorso_flamer_eh4",
+          "chrPrfWeap_caesar_righttorso_laser_eh4",
+          "chrPrfWeap_caesar_righttorso_mg_bh4",
+          "chrPrfWeap_caesar_righttorso_ppc_eh4"
+        ],
+		[
+          "chrPrfWeap_caesar_righttorso_lrm20_mh1",
+          "chrPrfWeap_caesar_righttorso_srm6_mh1"		
+		],
+		[
+          "chrPrfWeap_caesar_righttorso_lrm20_mh2",
+          "chrPrfWeap_caesar_righttorso_srm6_mh2"		
+		]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }
+  ]
+}
