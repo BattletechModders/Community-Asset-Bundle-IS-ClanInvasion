@@ -2,6 +2,10 @@ Changelog for CAB-IS-ClanInvasion
 
 -----------------------------------------------------
 
+1.3
+
+Added the Daikyu
+
 1.2
 
 Added Caesar

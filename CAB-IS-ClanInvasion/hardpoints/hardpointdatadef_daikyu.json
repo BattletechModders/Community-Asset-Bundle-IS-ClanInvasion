@@ -1,0 +1,115 @@
+{
+	"ID": "hardpointdatadef_daikyu",
+	"HardpointData": [{
+			"location": "leftarm",
+			"weapons": [
+				[
+					"chrprfweap_daikyu_leftarm_ac10_bh1",
+					"chrprfweap_daikyu_leftarm_gauss_bh1",
+					"chrprfweap_daikyu_leftarm_lrm5_mh1",
+					"chrprfweap_daikyu_leftarm_lrm10_mh1",
+					"chrprfweap_daikyu_leftarm_ppc_eh1",
+					"chrprfweap_daikyu_leftarm_uac5_bh1"
+				],
+				[
+					"chrprfweap_daikyu_leftarm_laser_eh2"
+				],
+				[
+					"chrprfweap_daikyu_leftarm_laser_eh3"
+				]					
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "lefttorso",
+			"weapons": [
+				[
+					"chrprfweap_daikyu_lefttorso_laser_eh1",
+					"chrprfweap_daikyu_lefttorso_ppc_eh1"
+				],
+				[
+					"chrprfweap_daikyu_lefttorso_laser_eh2",
+					"chrprfweap_daikyu_lefttorso_ppc_eh2"
+				],
+				[
+					"chrprfweap_daikyu_lefttorso_srm2_mh3",
+					"chrprfweap_daikyu_lefttorso_srm4_mh3",
+					"chrprfweap_daikyu_lefttorso_srm6_mh3"
+				],
+				[
+					"chrprfweap_daikyu_lefttorso_lrm5_mh4",
+					"chrprfweap_daikyu_lefttorso_lrm10_mh4",
+					"chrprfweap_daikyu_lefttorso_lrm15_mh4",
+					"chrprfweap_daikyu_lefttorso_lrm20_mh4"
+				]
+			],
+			"blanks": [
+			],
+			"mountingPoints": []
+		},
+		{
+			"location": "rightarm",
+			"weapons": [
+				[
+					"chrprfweap_daikyu_rightarm_ac10_bh1",
+					"chrprfweap_daikyu_rightarm_gauss_bh1",
+					"chrprfweap_daikyu_rightarm_ppc_eh1",
+					"chrprfweap_daikyu_rightarm_uac5_bh1"
+				],
+				[
+					"chrprfweap_daikyu_rightarm_laser_eh2"
+				],
+				[
+					"chrprfweap_daikyu_rightarm_laser_eh3"
+				],
+				[
+					"chrprfweap_daikyu_rightarm_lrm5_mh4",
+					"chrprfweap_daikyu_rightarm_lrm10_mh4"
+				]					
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "righttorso",
+			"weapons": [
+				[
+					"chrprfweap_daikyu_righttorso_laser_eh1",
+					"chrprfweap_daikyu_righttorso_ppc_eh1"
+				],
+				[
+					"chrprfweap_daikyu_righttorso_laser_eh2",
+					"chrprfweap_daikyu_righttorso_ppc_eh2"
+				],
+				[
+					"chrprfweap_daikyu_righttorso_srm2_mh3",
+					"chrprfweap_daikyu_righttorso_srm4_mh3",
+					"chrprfweap_daikyu_righttorso_srm6_mh3"
+				],
+				[
+					"chrprfweap_daikyu_righttorso_lrm5_mh4",
+					"chrprfweap_daikyu_righttorso_lrm10_mh4",
+					"chrprfweap_daikyu_righttorso_lrm15_mh4",
+					"chrprfweap_daikyu_righttorso_lrm20_mh4"
+				]
+			],
+				"blanks": [	
+				],
+				"mountingPoints": []
+			},
+		{
+			"location": "head",
+			"weapons": [],
+			"blanks": [],
+			"mountingPoints": []
+		},
+			{
+				"location": "centertorso",
+				"weapons": [],
+				"blanks": [],
+				"mountingPoints": []
+			}
+		]
+
+	}

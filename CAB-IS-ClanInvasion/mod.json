@@ -1351,7 +1351,58 @@
 		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/weapons/caesar/chrPrfWeap_caesar_righttorso_lrm20_mh1.prefab","AssetBundleName":"chrprfmech_caesarbase-001"},
 		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/weapons/caesar/chrPrfWeap_caesar_righttorso_lrm20_mh2.prefab","AssetBundleName":"chrprfmech_caesarbase-001"},
 		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/weapons/caesar/chrPrfWeap_caesar_righttorso_srm6_mh1.prefab","AssetBundleName":"chrprfmech_caesarbase-001"},
-		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/weapons/caesar/chrPrfWeap_caesar_righttorso_srm6_mh2.prefab","AssetBundleName":"chrprfmech_caesarbase-001"}
+		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/weapons/caesar/chrPrfWeap_caesar_righttorso_srm6_mh2.prefab","AssetBundleName":"chrprfmech_caesarbase-001"},
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/daikyu/chrPrfComp_daikyu_simgame.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_daikyubase-001.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/daikyu/chrPrfComp_daikyu_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/daikyu/chrPrfComp_daikyu_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_rightarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_rightarm_lrm5_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_rightarm_lrm10_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_leftarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_leftarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_srm2_mh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_lrm5_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_lrm10_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_lrm15_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_righttorso_lrm20_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_srm2_mh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_lrm5_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_lrm10_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_lrm15_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/daikyu/chrprfweap_daikyu_lefttorso_lrm20_mh4.prefab", "AssetBundleName": "chrprfmech_daikyubase-001" }
 	
     ]
 }
