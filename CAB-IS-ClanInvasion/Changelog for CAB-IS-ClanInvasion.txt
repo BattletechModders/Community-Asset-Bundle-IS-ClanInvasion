@@ -2,6 +2,10 @@ Changelog for CAB-IS-ClanInvasion
 
 -----------------------------------------------------
 
+1.4
+
+Added the PGI Sunder
+
 1.3
 
 Added the Daikyu
